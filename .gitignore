@@ -7,3 +7,10 @@ runs/
 kit/world/*/
 !kit/world/*.py
 *.local.json
+
+# Local backups, test helpers and isolated browser profiles.
+.local-backups/
+
+# The world is distributed separately through Releases.
+/colosseum-world-*.zip
+/colosseum-world-*.zip.sha256

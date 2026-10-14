@@ -1,0 +1,44 @@
+[
+ {
+  "round": 1,
+  "hp_you": 100,
+  "hp_bot": 82,
+  "took": 0,
+  "dealt": 18
+ },
+ {
+  "round": 2,
+  "hp_you": 100,
+  "hp_bot": 72,
+  "took": 0,
+  "dealt": 10
+ },
+ {
+  "round": 3,
+  "hp_you": 100,
+  "hp_bot": 66,
+  "took": 0,
+  "dealt": 6
+ },
+ {
+  "round": 4,
+  "hp_you": 100,
+  "hp_bot": 44,
+  "took": 0,
+  "dealt": 22
+ },
+ {
+  "round": 5,
+  "hp_you": 100,
+  "hp_bot": 22,
+  "took": 0,
+  "dealt": 22
+ },
+ {
+  "round": 6,
+  "hp_you": 100,
+  "hp_bot": 0,
+  "took": 0,
+  "dealt": 22
+ }
+]
